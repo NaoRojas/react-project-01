@@ -1,0 +1,17 @@
+.expenses {
+  padding: 24px;
+  background-color: rgb(31, 31, 31);
+  margin: 2rem auto;
+  width: 50rem;
+  max-width: 95%;
+}
+p{
+  color: white;
+
+}
+
+p.no-data{
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
